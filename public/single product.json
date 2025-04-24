@@ -1,0 +1,156 @@
+{
+  "categories": [
+    {
+      "name": "Candles",
+      "products": [
+        {
+          "id": 1,
+          "name": "Coffee Candle",
+          "image": "candle1.jpg",
+          "description": "This coffee scented candle will fill your home with a very familiar cozy fragrance. It is nicely packed and will be the perfect simple but meaningful gift for friends and family",
+          "dimensions": "6cm x 6cm",
+          "material": " soy wax",
+          "color": "Coffe",
+          "weight": "200g",
+          "price": "35.00$"
+        },
+        {
+          "id": 2,
+          "name": "Rose Candle",
+          "image": "candle2.jpg",
+          "description": "The scented candle is used to add a distinctive and refreshing fragrance in homes or other spaces.",
+          "dimensions": "10cm x 10cm",
+          "material": " wax and scented oils",
+          "color": "Rose",
+          "weight": "500g",
+          "price": "28.00$"
+        },
+        {
+          "id": 3,
+          "name": "Vanilla Candle",
+          "image": "candle3.jpg",
+          "description": "Elegant Minimalist Design Comes in a sleek glass jar with a modern look – a stylish addition to any room décor.",
+          "dimensions": "7cm x 7cm",
+          "material": "soy wax",
+          "color": "Off white",
+          "weight": "250g",
+          "price": "25.00$"
+        }
+      ]
+    },
+    {
+      "name": "Macrames",
+      "products": [
+        {
+          "id": 4,
+          "name": "Boho Wall Macrame",
+          "image": "macrame1.jpg",
+          "description": "Woven tassel tapestry made of Natural Materials, made by high quality yarn and cotton cord. Soft and fluffy touches, provides a natural textured",
+          "dimensions": "Width 120 cm Height 130 cm",
+          "material": "100% Cotton",
+          "color": "Cream off-white",
+          "weight": "3 Kg",
+          "price": "30.00$"
+        },
+        {
+          "id": 5,
+          "name": "Mini Macrame Plant Hanger",
+          "image": "macrame2.jpg",
+          "description": "Each product is hand-woven by our professional weaving worker,product will not be the same.Each one is a special gift,With our famous 100% satisfaction,you can have peace of mind.If for any reason you're not completely happy with your purchase- if it breaks,if it's damaged in shipping,or even. if you change your mind - simply let us know and we will either replace it or refund your money.",
+          "dimensions": "90cm length",
+          "material": "cotton threads",
+          "color": "Off white",
+          "weight": "1 Kg",
+          "price": "18.00$"
+        },
+        {
+          "id": 6,
+          "name": "Macrame Keychain Set ",
+          "image": "macrame3.jpg",
+          "description": "Made from high quality natural cotton cord and antique copper snap hooks Well made can be used for a long time Featured with high quality lobster clasp that can be attached on bag steadily,They come with antique copper snap hook and ring so can be easily attached to anything from a handbag or clutch school bag pencil case or even hung beside planters or curtains",
+          "dimensions": "70cm x 100cm",
+          "material": "natural threads",
+          "color": "beige",
+          "weight": "1.5 Kg",
+          "price": "10.00$"
+        }
+      ]
+    },
+    {
+      "name": "Accessories",
+      "products": [
+        {
+          "id": 7,
+          "name": "Evening Bage",
+          "image": "accessorie1.jpg",
+          "description": "【Luxury Women Pearl Purse】Our ladies' clutch bags are handmade by a team of experienced artisans, hand-woven with high-quality imitation pearls, sturdy and lustrous, comfortable to the touch",
+          "dimensions": "Standard Size",
+          "material": "سيراميك",
+          "color": "ROSE",
+          "weight": "600g",
+          "price": "80.00$"
+        },
+        {
+          "id": 8,
+          "name": "Bird in Bag",
+          "image": "accessorie2.jpg",
+          "description": "Elegent charms for women and girls purse bag backpack and car",
+          "dimensions": "Standard Size",
+          "material":"stan",
+          "color": "Off white",
+          "weight": "10g",
+          "price": "65.00$"
+        },
+        {
+          "id": 9,
+          "name": "Hair Boew",
+          "image": "accessorie3.jpg",
+          "description": "The hair bows for women are made of high quality satin fabric, soft and soft. The classic bow element design is very delicate and elegant.",
+          "dimensions": "Standard Size",
+          "material": "Stan",
+          "color": "Off white",
+          "weight": "12g",
+          "price": "40.00$"
+        }
+      ]
+    },
+    {
+      "name": "Crochet",
+      "products": [
+        {
+          "id": 10,
+          "name": "Crochet Doll with Haircraft",
+          "image": "crochet1.jpg",
+          "description": "دمية كروشيه صغيرة لطيفة.",
+          "dimensions": "15cm x 10cm",
+          "material": "خيوط قطن",
+          "color": "وردي وأبيض",
+          "weight": "300g",
+          "price": "12.00$"
+        },
+        {
+          "id": 11,
+          "name": "Floral Crochet Coin Purse ",
+          "image": "crochet2.jpg",
+          "description": "شنطة يد كروشيه أنيقة.",
+          "dimensions": "30cm x 25cm",
+          "material": "خيوط قطن",
+          "color": "أخضر زيتوني",
+          "weight": "800g",
+          "price": "8.00$"
+        },
+        {
+          "id": 12,
+          "name": " Colorful Crochet Cushion",
+          "image": "crochet3.jpg",
+          "description": "طقم قواعد أكواب من الكروشيه.",
+          "dimensions": "10cm x 20cm",
+          "material": "خيوط قطن",
+          "color": "ألوان متعددة",
+          "weight": "500g",
+          "price": "15.00$"
+        }
+      ]
+    }
+  ]
+}
