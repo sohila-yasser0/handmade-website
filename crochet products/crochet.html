@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Crochet Products</title>
+  <link rel="stylesheet" href="crochet.css" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+  <nav class="navbar">
+    <div class="logo">craftoria</div>
+
+    <div class="search-box">
+      <input type="text" placeholder="Search...">
+      <button><i class="fas fa-search"></i></button>
+    </div>
+
+    <div class="icons">
+      <i class="fas fa-shopping-cart cart-icon"></i>
+      <div class="menu-icon" onclick="toggleMenu()">
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+    </div>
+  </nav>
+  <!-- Header -->
+  <header class="py-4 text-center text-white" style="background-color: #d59224;">
+    <h1>Crochet Collection</h1>
+    
+  </header>
+
+  <!-- Products Grid -->
+  <section class="py-5">
+    <div class="container">
+      <div class="row g-4">
+
+        <!-- Crochet Product 1 -->
+        <div class="col-md-4">
+          <div class="product-card p-3">
+            <img src="images/crochet1.jpg" class="w-100 mb-3" alt="Crochet 1" />
+            <h5>Colorful Crochet Cushion</h5>
+            <p>Handmade cushion with vibrant granny square design.</p>
+            <p class="fw-bold">$15.00</p>
+            <a href="product-details.html" class="btn btn-custom">View Details</a>
+          </div>
+        </div>
+
+        <!-- Crochet Product 2 -->
+        <div class="col-md-4">
+          <div class="product-card p-3">
+            <img src="images/crochet2.jpg" class="w-100 mb-3" alt="Crochet 2" />
+            <h5>Floral Crochet Coin Purse</h5>
+            <p>Charming coin purse with a floral crochet pattern.</p>
+            <p class="fw-bold">$8.00</p>
+            <a href="product-details.html" class="btn btn-custom">View Details</a>
+          </div>
+        </div>
+
+        <!-- Crochet Product 3 -->
+        <div class="col-md-4">
+          <div class="product-card p-3">
+            <img src="images/crochet3.jpg" class="w-100 mb-3" alt="Crochet 3" />
+            <h5>Crochet Doll with Headscarf</h5>
+            <p>Handcrafted crochet doll adorned with a headscarf.</p>
+            <p class="fw-bold">$12.00</p>
+            <a href="product-details.html" class="btn btn-custom">View Details</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+  <footer>
+    <p>&copy; 2025 craftoria</p>
+
+    <ul>
+      <li><a href="about.html"><i class="fas fa-info-circle"></i> About Us</a></li>
+      <li><a href="contact.html"><i class="fas fa-envelope"></i> Contact Us</a></li>
+    </ul>
+
+    <div class="social-icons">
+      <a href="https://www.facebook.com/yourpage" target="_blank"><i class="fab fa-facebook-f"></i></a>
+      <a href="https://www.instagram.com/yourpage" target="_blank"><i class="fab fa-instagram"></i></a>
+      <a href="https://wa.me/yourwhatsapplink" target="_blank"><i class="fab fa-whatsapp"></i></a>
+    </div>
+  </footer>
+
+</body>
+</html>
